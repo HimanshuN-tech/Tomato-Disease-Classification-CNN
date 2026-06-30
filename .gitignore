@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# TensorBoard
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+database/
+
+# Test images
+test_images/
+
+# Jupyter
+.ipynb_checkpoints/
+models/
