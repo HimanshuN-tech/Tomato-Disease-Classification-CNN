@@ -142,3 +142,23 @@ python src/predict.py
 **Himanshu Navsare**
 
 This project was built as part of my Deep Learning learning journey.
+
+## Trained Model
+
+The trained `.keras` model is not included in this repository because it exceeds GitHub's 100 MB file size limit.
+
+To generate the trained model:
+
+1. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Train the model:
+
+```bash
+python src/train.py
+```
+
+The trained model will be saved automatically inside the `models/` folder.
